@@ -1,0 +1,8 @@
+# Datos personales en claro: nunca se suben
+privado/
+.DS_Store
+node_modules/
+# Código y notas: solo en local, para que el repositorio público no muestre de qué va
+NOTAS.md
+plantilla.html
+scripts/
